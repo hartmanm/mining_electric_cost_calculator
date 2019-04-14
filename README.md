@@ -1,4 +1,4 @@
-# electric cost calculator
+# mining electric cost calculator
 
 Estimate your mining electric cost using details from your electric bill and rigs.
 
