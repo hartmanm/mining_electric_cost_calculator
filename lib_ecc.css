@@ -1,0 +1,22 @@
+/* 
+Copyright (c) 2018 Michael Neill Hartman. All rights reserved.
+mnh_license@proton.me
+https://github.com/hartmanm
+*/ 
+
+body{background:white;}
+codey{padding: 2px 2px; font-size: 100%; color: #6C0800; background-color: #FF8F86; border-radius: 1px;}
+codez{padding: 2px 2px; font-size: 100%; color: #380057; background-color: #DBA5F8; border-radius: 1px;}
+codex{padding: 2px 2px; font-size: 100%; color: #0F5900; background-color: #CFF8CF; border-radius: 1px;}
+codev{padding: 2px 2px; font-size: 100%; color: #FFF; background-color: #FFF; border-radius: 1px;}
+codel{padding: 2px 2px; font-size: 100%; color: #833F00; background-color: #FFD4B2; border-radius: 1px;}
+code{padding: 2px 2px; font-size: 100%; color: #032166; background-color: #CBD3EE; border-radius: 1px;}
+codexx{padding: 2px 2px; font-size: 75%; color: #0F5900; background-color: #CFF8CF; border-radius: 1px;}
+codezz{padding: 2px 2px; font-size: 75%; color: #380057; background-color: #DBA5F8; border-radius: 1px;}
+.editable_text{padding: 2px 2px; font-size: 75%; color: #380057; background-color: #DBA5F8; border-radius: 1px;}
+.editable_text2{padding: 2px 2px; font-size: 75%; color: #380057; background-color: #DBA5F8; border-radius: 1px;}
+.text_editor{border: none; background: #ddd; color: #000; font-size: 150%; font-family: arial; width: 300px; cursor: text;}
+.text_editor2{border: none; background: #ddd; color: #000; font-size: 150%; font-family: arial; width: 300px; cursor: text;}
+codell{padding: 2px 2px; font-size: 75%; color: #833F00; background-color: #FFD4B2; border-radius: 1px;}
+codee{padding: 2px 2px; font-size: 75%; color: #032166; background-color: #CBD3EE; border-radius: 1px;}
+blockmode{margin-left: 25px;}
