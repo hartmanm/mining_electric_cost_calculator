@@ -4,7 +4,7 @@ Estimate your mining electric cost using details from your electric bill and rig
 
 ---
 
-# ![](electric_cost_calculator.png)
+# ![](ecc.png)
 
 Uses jquery 
 
